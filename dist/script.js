@@ -47,9 +47,9 @@ void main(){
 
 // デモで使用する画像URL
 const assetUrls = [
-    'https://pop-ketle.github.io/portfolio/images/img1.jpg',
-    'https://pop-ketle.github.io/portfolio/images/img2.jpg',
-    'https://pop-ketle.github.io/portfolio/images/dist.jpg'
+    'https://pop-ketle.github.io/webGL-training/images/img1.jpg',
+    'https://pop-ketle.github.io/webGL-training/images/img2.jpg',
+    'https://pop-ketle.github.io/webGL-training/images/dist.jpg'
 ];
 
 // レンダラーの初期化
